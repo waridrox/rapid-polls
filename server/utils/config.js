@@ -6,6 +6,7 @@ const {
   REDIS_USERNAME,
   REDIS_PASSWORD,
   REDIS_HOST,
+  REDIS_PORT
 } = process.env
 
 module.exports = {
@@ -14,4 +15,5 @@ module.exports = {
   REDIS_USERNAME,
   REDIS_PASSWORD,
   REDIS_HOST,
+  REDIS_PORT
 }
