@@ -1,8 +1,7 @@
 # Rapid Polls
 
 Create real-time polls, *rapidly!*
-
-![Screenshot of Rapid Polls home page.](./server/build/demo.gif "Rapid Polls Home Page")
+https://github.com/user-attachments/assets/6e191657-f649-4d27-a8f4-b2573041301a
 
 ## Description
 
